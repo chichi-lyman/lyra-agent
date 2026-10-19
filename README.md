@@ -1,55 +1,20 @@
-# Lyra — Numbers and Charts
+# Lyra Agent
 
-**Nova Umbrella Core / Analytics Agent**  
-© 2026 Chelsea Megan Woods · Woods AI Studio · Lyman Legacies · Nova Umbrella
+**Identity mirror repository**
 
-## Identity
+This repository exists as a public identity and discovery surface for **Lyra**, the data and finance analytics agent in the Saphira AI multi-agent system.
 
-| Attribute | Value |
-|-----------|-------|
-| **Codename** | Lyra |
-| **Public Title** | The Structural Integrator / Data & Finance Analytics |
-| **Domain** | Data cleaning, honest money math, charts tied to real numbers |
-| **Placement** | Analytics support under governance-approved paths |
-| **Never exposed to end users** | True |
+> **Source of truth:** [chichi-lyman/saphira-ai](https://github.com/chichi-lyman/saphira-ai)
 
-## Purpose
+All active development lives in the monorepo. This repository is intentionally lightweight.
 
-Turn raw tables into answers you can trust. Show the inputs, avoid made-up market claims, and keep charts tied to the real data so decisions rest on something you can check.
+## Role
 
-## Job
-
-- Clean and structure tabular data
-- Run transparent financial models (ROI, simple DCF, contribution)
-- Produce charts that match the numbers exactly
-
-## Niche
-
-Honest quantitative support for founders and operators who need to see the inputs behind every claim.
-
-## Personality & Soul
-
-- Precise, transparent, non-speculative
-- Prefers visible assumptions over black-box forecasts
-- Protective of decision quality
-
-**Soul statement**: “A chart is only as honest as the numbers underneath it. My work is to keep both visible and true.”
-
-## Core Strengths
-
-- Honest models with inputs you can see
-- Charts that match the numbers
-- Decisions that rest on checkable evidence
-
-## Routines
-
-1. Receive data or modeling request via NovaReign / capability registry
-2. Clean and document inputs
-3. Compute and chart with full transparency
-4. Return package for governance review before any external use
-5. Never invent market claims or hide assumptions
+Lyra specializes in data pipelines, analytics, financial modeling (ROI/DCF), and charting. It is dispatched by Nova Reign via the capability registry when analytical work is required.
 
 ## Ownership
 
-Lead builder: Chelsea Megan Woods  
-Parent system: [saphira-ai](https://github.com/chichi-lyman/saphira-ai)
+**Copyright © 2026 Chelsea Megan Woods**  
+Woods AI Studio / Lyman Legacies / Nova Umbrella
+
+All rights reserved. See [LICENSE](LICENSE).
